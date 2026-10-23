@@ -19,8 +19,8 @@
     <a href="view/Ej_7.php">Calculadora</a>
 </div>
 
-<div class="contenedor-abeja">
-    <img src="img/Abeja.png" alt="Abeja" class="abeja">
+<div class="imagen1">
+    <img src="img/Abeja.png" alt="Imagen de abeja">
 </div>
 
 
